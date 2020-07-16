@@ -1,5 +1,6 @@
 # Python_Assignment_5
-Pyviz assignment
+
+## Pyviz assignment
 
 ## Background
 
@@ -7,7 +8,7 @@ Harold's company has just started a new Real Estate Investment division to provi
 
 This dashboard's goal is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in Toronto.
 
-## Files need to run
+## Files to run
 
 1. Rental Analysis Notebook - rental_analysis.ipynb
 
@@ -17,6 +18,6 @@ This dashboard's goal is to provide charts, maps, and interactive visualizations
 
 dwellng_types_per_year.csv - Updated in Git Hub
 
-## How to run the Dashbard 
+## How to run the Dashboard 
 
-Please run all the codes in dashboard.ipynb and panel will open us a new tab in browser window. 
+Please run all the codes in dashboard.ipynb and panel will open us a new tab in a browser window. 
