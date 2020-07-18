@@ -16,8 +16,8 @@ This dashboard's goal is to provide charts, maps, and interactive visualizations
 
 ## Output file 
 
-dwellng_types_per_year.csv - Updated in Git Hub
+Dwelling types per year file - dwellng_types_per_year.csv 
 
 ## How to run the Dashboard 
 
-Please run all the codes in dashboard.ipynb and panel will open us a new tab in a browser window. 
+Please run all the codes in dashboard.ipynb and panel will open as a new tab in a browser. 
